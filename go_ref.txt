@@ -1,0 +1,13 @@
+
+
+GO获取随机数
+https://www.cnblogs.com/aresxin/p/go-random.html
+
+golang每隔10秒访问URL
+https://www.cnblogs.com/pangchunyu/p/11388730.html
+
+vscode中go代码自动补全
+https://www.cnblogs.com/beilong/p/13253043.html
+
+vs code golang代码自动补全
+https://blog.csdn.net/russle/article/details/105876502
