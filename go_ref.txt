@@ -11,3 +11,25 @@ https://www.cnblogs.com/beilong/p/13253043.html
 
 vs code golang代码自动补全
 https://blog.csdn.net/russle/article/details/105876502
+
+go时间/时间戳操作大全(小结)
+https://www.jb51.net/article/164869.htm
+
+golang substring方法的几种实现
+https://blog.csdn.net/psyuhen/article/details/51998223
+
+golang json用法讲解
+https://www.cnblogs.com/yorkyang/p/8990570.html
+
+Golang 解析json
+https://studygolang.com/articles/32521?fr=sidebar
+
+Go语言之JSON处理
+https://blog.csdn.net/lengyuezuixue/article/details/78771754
+
+Golang json用法详解（一）
+https://blog.csdn.net/weiyuefei/article/details/78604750?utm_term=gojson%E6%95%99%E7%A8%8B&utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduweb~default-2-78604750&spm=3001.4430
+
+go json解析Marshal和Unmarshal
+https://www.cnblogs.com/jiangxiangxuan/p/5388806.html
+
